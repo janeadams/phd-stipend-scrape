@@ -1,0 +1,922 @@
+University,0
+University of Wisconsin - Madison (UW),282
+University of Pennsylvania,243
+University of Michigan - Ann Arbor (UM),242
+University of California - Berkeley,242
+Pennsylvania State University (Penn State),239
+Duke University (DU),237
+University of California - San Diego (UCSD),235
+University of Texas - Austin (UT),231
+University of North Carolina - Chapel Hill (UNC),231
+University of Southern California (USC),223
+University of Minnesota - Twin Cities (UM),222
+University of Illinois - Urbana- Champaign (UIUC),210
+Stanford University (SU),205
+Northwestern University (NU),200
+Cornell University (CU),198
+Purdue University - West Lafayette,191
+University of Chicago (UC),188
+Georgia Institute of Technology (Georgia Tech),181
+University of California - Los Angeles (UCLA),180
+University of Maryland - College Park (UMD),179
+University of Washington (UW),175
+Ohio State University (OSU),167
+Harvard University (HU),167
+University of Rochester (UR),167
+Indiana University,163
+Yale University (YU),163
+University of Virginia (UVA),162
+Massachusetts Institute of Technology (MIT),160
+Johns Hopkins University (JHU),159
+Columbia University (CU),159
+Emory University,150
+University of Florida (UF),149
+Arizona State University (ASU),148
+New York University (NYU),143
+Princeton University,142
+Vanderbilt University,140
+Boston University (BU),138
+Washington University in St. Louis (Wash U),135
+University of Kentucky (UK),134
+University of California - Irvine (UCI),128
+Michigan State University (MSU),125
+University of California - Davis (UCD),123
+University of Pittsburgh,118
+Rice University,118
+North Carolina State University (NCSU),117
+Texas A&amp;amp;M; University - College Station,116
+University of Utah,115
+Virginia Tech,112
+Stony Brook University - SUNY,111
+University of Notre Dame (ND),110
+University of Colorado - Boulder (UCB),109
+University of Georgia (UGA),108
+Drexel University (DU),107
+University of Tennessee - Knoxville,105
+Brown University,103
+University of Arizona (U of A),103
+University of Delaware (UD),95
+Carnegie Mellon University (CMU),93
+Rutgers the State University of New Jersey - New Brunswick,93
+University of California - Santa Barbara (UCSB),86
+Clemson University (CU),83
+Temple University (TU),82
+Iowa State University (ISU),80
+Northeastern University (NU),80
+University at Buffalo - SUNY,74
+University of Iowa (UI),74
+University of Illinois - Chicago (UIC),73
+University of South Carolina (USC),72
+Georgia State University (GSU),70
+Louisiana State University - Baton Rouge,67
+Florida State University (FSU),66
+University of Texas - Dallas (UTD),65
+Syracuse University,65
+Case Western Reserve University,64
+California Institute of Technology (Caltech),64
+University of Cincinnati (UC),63
+University of Massachusetts - Amherst (UMass),63
+University of Houston (UH),62
+Texas Tech University (TTU),61
+Tufts University (TU),61
+CUNY Graduate School and University Center,61
+University of Connecticut (UConn),59
+University of Miami (UM),59
+University of Kansas (KU),59
+George Washington University (GW),58
+University of California - Riverside (UCR),58
+University of Oregon (UO),57
+University of Missouri (MU),57
+Oregon State University (OSU),56
+Colorado State University (CSU),54
+Boston College (BC),53
+University of California - San Francisco (UCSF),52
+Georgetown University,52
+University of Hawaii - Manoa (UH),51
+Washington State University (WSU),51
+Tulane University (TU),49
+University of Alabama (UA),49
+University of Central Florida (UCF),49
+Ohio University (OU),48
+George Mason University (GMU),47
+University of Nebraska - Lincoln (NU),46
+Baylor College of Medicine,45
+University of Alabama - Birmingham (UAB),43
+University of Oklahoma (OU),41
+Southern Methodist University (SMU),41
+University of Colorado - Denver (UCD),40
+Florida International University (FIU),40
+West Virginia University (WVU),40
+Rensselaer Polytechnic Institute (RPI),38
+Virginia Commonwealth University (VCU),37
+University of California - Santa Cruz,37
+Dartmouth College,37
+University of South Florida (UCF),36
+Oklahoma State University (OSU),35
+University of Nevada - Reno (UNR),35
+University at Albany - SUNY,35
+Bowling Green State University (BGSU),34
+Baylor University (BU),33
+Colorado School of Mines,31
+University of Maryland - Baltimore (UMB),31
+University of Arkansas - Fayetteville,31
+Auburn University (AU),31
+Loyola University Chicago (LUC),30
+Wayne State University,30
+University of Louisville (U of L),30
+University of North Carolina - Greensboro (UNCG),30
+Brandeis University,30
+Northern Arizona University (NAU),29
+Oregon Health and Science University,28
+Montana State University (MSU),28
+University of Toronto,27
+saaA,27
+University of Vermont (UVM),27
+University of Toledo,26
+Binghamton University - SUNY,26
+Lehigh University,26
+University of North Texas (UNT),26
+University of Texas Southwestern Medical Center - Dallas,25
+University of Nevada - Las Vegas (UNLV),25
+Kansas State University (K-State),25
+University of Denver (DU),24
+University of Texas - Arlington (UTA),24
+University of Wisconsin - Milwaukee (UWM),23
+Utah State University (USU),23
+Florida Atlantic University (FAU),23
+University of New Hampshire (UNH),23
+Indiana University- Purdue University - Indianapolis (IUPUI),22
+University of Rhode Island (URI),21
+North Dakota State University (NDSU),21
+University of Akron,21
+Kent State University (KSU),20
+National Institutes of Health (NIH),20
+University of British Columbia,20
+Mississippi State University (MSU),20
+University of Massachusetts - Boston (UMB),19
+Southern Illinois University - Carbondale (SIUC),19
+Michigan Technological University (MTU),19
+American University (AU),19
+Rochester Institute of Technology (RIT),18
+Mount Sinai School of Medicine,18
+University of Memphis,18
+University of Wyoming (UW),18
+San Diego State University (SDSU),18
+Wake Forest University (WFU),18
+University of North Carolina - Charlotte (UNCC),17
+University of Mississippi (Ole Miss),17
+University of Maryland - Baltimore County (UMBC),17
+Old Dominion University (ODU),17
+University of Massachusetts - Lowell (UML),17
+New Jersey Institute of Technology,17
+Rutgers the State University of New Jersey - Newark,16
+Illinois State University (ISU),16
+Scripps Research Institute (SRI),16
+The Catholic University of America,16
+University of New Mexico (UNM),16
+Marquette University,15
+College of William and Mary (W&amp;amp;M),15
+Texas Christian University (TCU),15
+University of Maine,15
+Worcester Polytechnic Institute (WPI),15
+Fordham University (FU),15
+Duquesne University (DU),15
+University of Texas Health Science Center - Houston,14
+Thomas Jefferson University,14
+University of Arkansas for Medical Sciences,14
+St. Louis University (SLU),14
+Stevens Institute of Technology,13
+New Mexico State University (NMSU),13
+Miami University (MU),13
+University of Texas - San Antonio (UTSA),13
+University of Idaho (UI),13
+University of Louisiana - Lafayette,13
+Medical College of Wisconsin,12
+Missouri University of Science &amp;amp; Technology,12
+University of Texas - El Paso (UTEP),12
+Illinois Institute of Technology (IIT),12
+Northern Illinois University (NIU),12
+McGill University,11
+University of South Florida,11
+Idaho State University (ISU),11
+University of New Orleans (UNO),11
+University of Southern Mississippi (USM),11
+University of Massachusetts Medical Center - Worcester,11
+Brigham Young University (BYU),11
+University of Texas Medical Branch - Galveston,11
+South Dakota State University (SDSU),10
+CUNY - City College,10
+University of Tennessee Health Science Center,10
+McMaster University,9
+Rockefeller University,9
+University College London,9
+St. John&amp;#39;s University (SJU),9
+University of California - Merced,9
+Medical University of South Carolina,9
+University of Tulsa (TU),9
+Clark University,9
+University of Alberta,9
+University of Texas Health Science Center - San Antonio,9
+Portland State University (PSU),9
+Howard University (HU),9
+Wesleyan University,9
+University of Oklahoma Health Sciences Center,8
+University of Montana (UM),8
+Yeshiva University (YU),8
+Albert Einstein College of Medicine,8
+Middle Tennessee State University (MTSU),8
+University of North Dakota (ND),8
+Western Michigan University (WMU),7
+Central Michigan University (CMU),7
+Trinity College Dublin,7
+University of Alabama - Huntsville (UAH),7
+Imperial College London,7
+University of Calgary,7
+DePaul University (DPU),7
+INSEAD,7
+Wright State University (WSU),7
+Boise State University (BSU),7
+Claremont Graduate University (CGU),7
+SUNY College of Environmental Science and Forestry,7
+Simon Fraser University,6
+University of South Florida (USF),6
+Louisiana State University School of Medicine - Shreveport,6
+Louisiana State University School of Medicine - New Orleans,6
+Cold Spring Harbor Laboratory,6
+Nanyang Technological University,6
+Loma Linda University,6
+Polytechnic Institute of New York University,6
+University of Ottawa,6
+Gallaudet University,6
+East Carolina University (ECU),6
+University of South Dakota,5
+New Mexico Institute of Mining and Technology,5
+CUNY - Hunter College,5
+Saint Louis University,5
+University of Alaska - Fairbanks (UAF),5
+Albany Medical College,5
+University of Nebraska Medical Center,5
+McGill university,5
+University of the Sciences in Philadelphia,5
+The Ohio State University,5
+East Tennessee State University (ETSU),5
+Texas Woman&amp;#39;s University,5
+Wichita State University (WSU),5
+Clarkson University,5
+University of Missouri - St. Louis,5
+University of Massachusetts - Dartmouth (UMD),5
+Sam Houston State University,4
+Florida A&amp;amp;M; University -  Florida State University,4
+Florida Institute of Technology,4
+UCLA,4
+Cleveland State University (CSU),4
+University of Melbourne,4
+Indiana State University (ISU),4
+Indiana University Bloomington,4
+Rowan University,4
+Bilkent University,4
+Icahn School of Medicine at Mount Sinai,4
+Uniformed Services University of the Health Sciences,4
+University of Arkansas - Little Rock (UALR),4
+Morgan State University (MSU),4
+University of North Texas Health Science Center,4
+University of Manitoba,4
+Villanova University,4
+Embry-Riddle Aeronautical University,4
+University of Nebraska - Omaha (UNO),4
+University of Cambridge,4
+Bryn Mawr College (BMC),4
+University of Toronto ,4
+Leipzig University ,4
+Princeton Theological Seminary (PTS),4
+University of Auckland,4
+North Carolina A&amp;amp;T; State University (NC A&amp;amp;T),4
+University of Rhode Island,4
+McGill,4
+University of Liverpool,4
+University of South Alabama (USA),4
+University of Mississippi Medical Center,4
+University College Dublin,4
+Jackson State University (JSU),4
+University of Dallas (UD),3
+University of Guelph,3
+University of Rochester,3
+University of Dayton (UD),3
+UC Berkeley,3
+University of Texas at Austin,3
+Yale,3
+Dalhousie University,3
+Oakland University (OU),3
+University of Puerto Rico,3
+Ball State University (BSU),3
+University of Northern Colorado (UNC),3
+University of Oxford,3
+Pardee RAND Graduate School,3
+Penn State,3
+Alfred University - New York State College of Ceramics,3
+Weill Cornell Graduate School of Medical Sciences,3
+Weill Cornell Medicine,3
+University of Hong Kong,3
+University of Saskatchewan,3
+Louisiana Tech University (LA Tech),3
+CUNY - John Jay College,3
+Montclair State University,3
+CUNY - Baruch College,3
+University of Nottingham,3
+Stony Brook University,3
+University of Waterloo,3
+Seton Hall University,3
+University of Victoria,3
+University of Georgia,3
+University of Florida,3
+University of Edinburgh,3
+University of Missouri - Kansas City (UMKC),3
+Hampton University (HU),3
+Central European University,3
+Cedars-Sinai Medical Center,3
+"National University of Ireland, Galway",3
+National University of Singapore,3
+University of Saskatchewan ,3
+Meharry Medical College,3
+"Teachers College, Columbia University",3
+The Scripps Research Institute,2
+St. John&#39;s University,2
+University of Delaware,2
+University of California San Diego,2
+St Jude Graduate School of Biomedical Sciences,2
+University of Notre Dame,2
+University of Kentucky,2
+University of California Santa Cruz,2
+University of Kansas Medical Center (KUMC),2
+University of Eastern Finland,2
+The university of Hong Kong,2
+University of Kansas,2
+Simon Fraser University ,2
+"University at Albany, State University of New York",2
+University of Maryland,2
+Rosalind Franklin University of Medicine and Science,2
+University College Cork,2
+SUNY Downstate Medical Center,2
+University of Manchester,2
+Texas A&amp;amp;M; University - Kingsville,2
+SUNY Upstate Medical Center,2
+University of Gothenburg (Sweden),2
+Saarland University,2
+University of Göttingen,2
+Texas A&amp;M University,2
+Tuskegee University,2
+University of New South Wales,2
+USC,2
+University of Birmingham (UK),2
+Temple University,2
+University of Bristol,2
+University of Exeter,2
+University of British Columbia ,2
+The Hong Kong University of science and technology,2
+Sanford Burnham Prebys Medical Discovery Institute,2
+Tennessee State University (TSU),2
+University of Chicago,2
+Mayo Medical School,2
+Indiana University of Pennsylvania (IUP),2
+University of Western Ontario,2
+CUNY - Queens College,2
+University of Warwick (UK),2
+Bucknell University,2
+Johns Hopkins University,2
+KTH Royal Institute of Technology,2
+KU Leuven,2
+Brite Divinity School,2
+Kennesaw State University,2
+King Abdullah University of Science and Technology,2
+Boston University,2
+Lamar University,2
+London School of Economics,2
+Massachusetts College of Pharmacy and Health Sciences,2
+University of Wisconsin Madison,2
+Cambridge University,2
+University of Zurich,2
+Columbia University,2
+Eastern New Mexico University,2
+Duke,2
+Western University,2
+Yale University,2
+Cornell University,2
+Cornell,2
+Washington University in St Louis,2
+University of toronto,2
+European Molecular Biology Laboratory,2
+Walden University,2
+Grand Canyon University,2
+Uppsala University,2
+Cold Spring Harbor Laboratory ,2
+Clark Atlanta University,2
+Mayo Clinic Graduate School,2
+Irell and Manella Graduate School of Biological Sciences,2
+McGill University ,2
+University of Sussex ,2
+university of south carolina,2
+Nova Southeastern University (NSU),2
+university of miami,2
+Norwegian University of Science and Technology,2
+University of Rochester ,2
+Northcentral University,2
+University of Pennsylvania Wharton School,2
+National Institute of Technology Rourkela,2
+NYU,2
+University of South Florida ,2
+Augusta University,2
+Australian National University,2
+Aarhus University,2
+New School,2
+University of Oslo,2
+McMaster,2
+Purdue University,2
+Yonsei university,1
+esf,1
+Western Sydney University,1
+cu ansutlz,1
+University of Galway ,1
+cu boulder,1
+Western Illinois University,1
+icahn school of medicine,1
+université de montréal,1
+University of Colorado - Anschutz meedical campus,1
+University of Fake Entry to Test your API,1
+incheon  national university,1
+university of prince edward island,1
+indian institute,1
+University of Georgia ,1
+buffalo,1
+wyoming,1
+École Polytechnique Fédérale de Lausanne,1
+University of Glasgow,1
+andhra university,1
+York University,1
+University of Greifswald ,1
+University of Colorado,1
+University of Edinburrgh,1
+University of Houston,1
+University of Cincinnati (UC)/ CCHMC,1
+Western University Ontario,1
+Wildlide Institute of India,1
+Wroclaw University of Science and technology,1
+University of Chinese Academy of Sciences,1
+University of Cincinnati,1
+indiana,1
+mcgill university,1
+johns hopkins,1
+University of Colorado Boulder,1
+university of melbourne,1
+university of florida,1
+singapore university of technology and design,1
+university of california los angeles,1
+the University of Adelaide,1
+"University of Colorado, Boulder",1
+uc san diego,1
+union,1
+johns hopkins ,1
+university Illinois at chicago,1
+university college of engineering ramanathapuram,1
+university of alaska anchorage,1
+University of Colorado Anschutz Medical Campus,1
+university missouri ,1
+university of  Maryland ,1
+University of Colorado - Colorado Springs,1
+West Texas A&amp;M University,1
+rutgers,1
+ottawa,1
+old dominion university,1
+university of pittsburgh,1
+karlsruhe institute of technology,1
+keiser university,1
+khalifa university ,1
+university of Massachusetts Amherst,1
+mcmaster university,1
+moffitt,1
+nc state university ,1
+"University of East Anglia, UK",1
+"University of Dublin, Trinity college Dublin ",1
+nit ,1
+university of missouri st. louis,1
+northwestern,1
+University of Deleware,1
+nottingham trent university,1
+West Virginia university,1
+"University of Nottingham, UK",1
+Weill Cornell Medical School,1
+University of Melbourne ,1
+University of Texas at Dallas,1
+University of Texas at El Paso,1
+University of Tokyo,1
+University of Mumbai,1
+University of Montreal,1
+University of Toronto Rotman School of Management,1
+University of Tuebingen,1
+University of Turku,1
+University of Twente,1
+University of Tübingen,1
+University of Vermont ,1
+University of Mississippi Medical Center ,1
+University of Virginia,1
+University of Warwick,1
+University of Washington,1
+"University of Washington, Seattle",1
+University of Minnesota,1
+University of Western Australia,1
+University of Michigan,1
+University of Texas Rio Grande Valley,1
+University of New Brunswick,1
+University of Technology Sydney,1
+University of North Florida,1
+University of Oregon,1
+University of Otago,1
+University of Ottawa ,1
+University of Oxford ,1
+University of Padua,1
+University of Pennsylvania ,1
+University of Pisa ,1
+University of Primorska,1
+University of Queensland,1
+University of Tartu,1
+University of North Carolina at Chapel Hill ,1
+University of North Carolina Wilmington,1
+University of Regina,1
+University of Reims,1
+"University of New South Wales, Sydney",1
+University of Sciences ,1
+University of St Andrews,1
+"University of St Andrews, UK",1
+University of Windsor,1
+University of Massachusetts Medical School,1
+University of Illinois urbana,1
+University of Wyoming,1
+Villanova,1
+Wake Forest School of Medicine,1
+University of Louisville,1
+University of Louisiana at Lafayette,1
+Wake Forest School of Medicine (WFU),1
+University of Liverpool (Great Britain),1
+University of Oklahoma ,1
+University of Limerick,1
+"University of Leeds, UK",1
+University of Leeds,1
+Washington University in St Louis ,1
+Waterloo University,1
+"University of Kent, Canterbury",1
+University of Kent,1
+Wayne State Univeristy,1
+Weill Cornell ,1
+University of Kansas ,1
+Weill Cornell Medical College,1
+University of Iowa,1
+"Victoria University of Wellington, NZ",1
+Vanderbilt,1
+University of Maine ,1
+University of Maryland Baltimore County (UMBC),1
+University of Massachusetts Dartmouth,1
+University of calgary,1
+University of otago,1
+University of oxford,1
+University of the District of Columbia,1
+University of the Pacific (UOP),1
+University of the Witwatersrand ,1
+University of Maryland College Park,1
+University of Maryland - College Park,1
+Van Andel Institute Graduate School,1
+University of vermont,1
+University of virginia,1
+Université Laval,1
+Université Paul Sabatier,1
+University of Manitoba ,1
+Université de Montréal,1
+Unniversity of Hawaii Manoa,1
+Unoversity of illinois,1
+Wake Forest University,1
+ Clark University,1
+University of Cape Town,1
+Irell and Manella Graduate School of Biological  Sciences,1
+IIT BOMBAY,1
+INSEAD ,1
+Icahn School of Medicine,1
+Iceland,1
+"Indian Institute of Technology, Bombay",1
+"Indian Institute of Technology,Dharwad",1
+Indian School of Business,1
+Indian University Bloomington,1
+Indian institute of Science,1
+Indiana University Bloomington ,1
+Indiana University Purdue University Indianapolis,1
+Indiana University School of Medicine,1
+Indiana university Bloomington,1
+Inrs,1
+"Institute of Experimental Medicine, Russia",1
+"Instituto Nacional de Astrofísica, Ótpica y Electrónica",1
+Iowa State University,1
+Hong Kong University of Science and Technology,1
+Hofstra University,1
+Hofstra Northwell School of Medicine,1
+Goldsmiths,1
+Florida Agricultural &amp; Mechanical University,1
+Followhind University,1
+Free university  of Bozen-Bolzano,1
+Georgia Institute of Technology,1
+Georgia Institute of Technology/Emory University,1
+Gerstner Sloan Kettering (Memorial Sloan Kettering Cancer Center),1
+Gerstner Sloan Kettering Graduate School of Biomedical Sciences,1
+Gonzaga University,1
+Hillsdale College,1
+"Griffith University, Australia ",1
+Guelph,1
+Gwangju Institute of Science and Technology,1
+HHMI Janelia Research Campus,1
+HKUST,1
+HNGU UNIVERSITY PATAN,1
+"Heriot Watt University, Edinburgh",1
+Irell &amp; Manella Graduate School of Biological Sciences at Beckman Research Institute,1
+James Cook University,1
+Flinders University,1
+Jawaharlal Nehru Centre for Advanced Scientific Research,1
+Marshall University,1
+Massey University (New Zealand),1
+Max Planck Institute for Human Cognitive &amp; Brain Sciences,1
+Maynooth University,1
+Maynooth University ,1
+Mayo Clinic,1
+Mayo Clinic ,1
+Mayo Clinic Graduate School of Biomedical Sciences,1
+McMaster University ,1
+Memorial Sloan Kettering (Gerstner Sloan Kettering),1
+Memorial University,1
+Memorial University of Newfoundland,1
+Michigan State Unviersity,1
+Mississippi State University,1
+"Missouri University of Science &amp; Technology, Rolla",1
+Montana State University,1
+Montana Tech ,1
+Makerere University ,1
+Makerere University,1
+Maastricht University,1
+Lehigh university,1
+KAUST,1
+Kaust,1
+Keck Graduate Institute,1
+King Fahd University of Petroleum and Minerals,1
+King&#39;s College London,1
+Konkuk University,1
+Laval university,1
+Leibniz Universität Hannover,1
+MIT,1
+Leuphana University,1
+Lingnan University,1
+Loma Lind University,1
+Loma Linda university,1
+Long Island University,1
+Lund University,1
+MCPHS University  ,1
+Florida A&amp;M University,1
+Federation University Australia ,1
+Montreal,1
+"City, University of London",1
+Boston University ,1
+Bristol,1
+"CINVESTAV del IPN, México",1
+CUNY - Brooklyn College,1
+"California Polytechnic University, San Luis Obispo",1
+California state university,1
+California state university Northridge,1
+Capella University,1
+Capitol Technology University,1
+Carleton University ,1
+"Cedars-Sinai Medical Sciences, Los Angeles",1
+Cedars-Sinai medical Center,1
+"Champalimaud Foundation - Lisbon, Portugal",1
+Chapman University,1
+Charité Universitätsmedizin Berlin,1
+Chattogram University ,1
+Chicago school for professional psychology,1
+Boston College,1
+"Birkbeck, University of London",1
+Bharathiar ,1
+Auburn,1
+ University of Texas at Arlington ,1
+12,1
+American University,1
+Anna University,1
+Arizona State University,1
+Arkansas State University,1
+Athens Ohio,1
+Auburn University,1
+Berklee Valencia,1
+Auburn University ,1
+BAYLOR COLLEGE OF MEDICINE,1
+BCM,1
+Bard College,1
+Bard Graduate Center,1
+Bath,1
+Bentley University,1
+China Academy of Chinese Medical Sciences,1
+Clemson University,1
+FAMU,1
+Cold Spring Harbor Laboratory (CSHL),1
+Durham university,1
+ESSEC Business School,1
+ETH,1
+ETH Zurich,1
+ETH Zurich ,1
+East Carolina University,1
+Eastern Michigan University (EMU),1
+Eastern Virginia Medical School,1
+Eastern virginia medical school,1
+Eastman School of Music,1
+Eastman School of Music (University of Rochester),1
+Edith Cowan University,1
+Eindhoven Techincal University,1
+Embry Riddle Aeronautical University,1
+Embry–Riddle Aeronautical University,1
+Essec ,1
+Eötvös Loránd University,1
+"Duke-NUS, Singapore",1
+Duke University,1
+Dublin City university ,1
+Copenhagen Business School,1
+College of Charleston,1
+Colorado School  of Mines,1
+Colorado State University,1
+Colorado school of mines,1
+"Colorado, Boulder",1
+Columbia Teachers College,1
+Columbia University (CU) - Teachers College,1
+Cornell Tech,1
+Drexel University,1
+Cornell University (CU) (Cornell Tech),1
+Cranfield University,1
+Creighton University (CU),1
+Czech Technical University,1
+Dalhousie Univerity,1
+Dalhousie University ,1
+DePaul University,1
+Montclair state university,1
+Morehouse College of Medicine,1
+University of Canterbury,1
+Trinity college Dublin ,1
+The University of Birmingham,1
+The University of British Columbia,1
+The University of Georgia,1
+The University of Iowa,1
+The University of Manchester,1
+"The University of Melbourne, Australia",1
+The University of North Texas,1
+The University of Queensland,1
+The University of Queensland ,1
+The University of Toledo,1
+The University of Tulsa,1
+The University of Western Australia,1
+The Wharton school,1
+The ohio state university,1
+Towson University ,1
+Tri-Institutional PhD Program,1
+Tribhuvan University,1
+The University of Alabama,1
+The University of Akron,1
+The Hong Kong University of Science and Technology,1
+Texas A&amp;M University at Galveston,1
+Tel Aviv University ,1
+ University of California Merced,1
+Tennessee Technological University,1
+Test University,1
+Texas A&amp;M College Station,1
+Texas A&amp;M Health Science Center,1
+Texas A&amp;M University - College Station,1
+Texas A&amp;M; University - College Station,1
+The Hong Kong Polytechnic University,1
+Texas A&amp;amp;M; University - Commerce,1
+Texas A&amp;amp;M; University - Corpus Christi,1
+Texas Woman&#39;s University ,1
+Texas tech university health sciences center ,1
+The American College of Financial Services,1
+The Francis Crick Institute (UK),1
+The Hebrew University of Jerusalem,1
+Trinity College Dublin ,1
+Trinity college dublin,1
+Technical University of Denmark,1
+UC Davis,1
+University of Arizona College of Medicine-Phoenix,1
+University of Bar,1
+University of Barcelona,1
+University of Belgrade,1
+University of Birmingham ,1
+University of Brighton ,1
+University of Buenos Aires,1
+University of Buffalo,1
+University of Calgary ,1
+University of California Los Angeles,1
+University of California Santa Barbara,1
+"University of California, Berkeley",1
+"University of California, Los Angeles",1
+University of California-Berkeley,1
+University of Cambridge ,1
+University of Cambridge (Gates Cambridge Scholarship),1
+University of Canberra,1
+University of Antwerp,1
+University of Amsterdam,1
+University of Alabama in Huntsville,1
+UNiversity of Waterloo,1
+UC Santa Cruz,1
+UC riverside,1
+UCLa,1
+UF,1
+UK university not based in London,1
+UNC Charlotte,1
+UNiversiry of North Carolina ,1
+UVA,1
+University of Alabama at Birmingham (UAB),1
+Uninassau Brasil,1
+Universidade Federal de São Paulo,1
+Universidade Tiradentes,1
+University College London (UCL),1
+University college Dublin ,1
+University of ,1
+University of Alabama at Birmingham,1
+Technion,1
+"Teachers College, Columbia University ",1
+México-UNAM ,1
+Rockhurst University,1
+Osaka University,1
+Ottawa Hospital Research Institute,1
+Ottawa University,1
+PSI,1
+Pacifica Graduate Institute,1
+Parthenope University of Napoli,1
+Penn State College of Medicine,1
+Pennsylvania State University,1
+Pennsylvania State University (Penn State) Hershey,1
+Politecnico di Milano,1
+Polytechnic Montreal,1
+Polytechnique Montreal,1
+Princeton,1
+Queen&#39;s University,1
+Queen&#39;s University Belfast,1
+Queensland University of Technology (QUT),1
+Radboud University,1
+Oregon State University (OSU) ,1
+Oregon State University ,1
+Open University-KEMRI Wellcome Trust Research Programme,1
+Noetheastern,1
+NANYANG TECHNOLOGICAL UNIVERSITY,1
+National Institute of Technology Karnataka,1
+National Institutes of Health,1
+National Taiwan Ocean University,1
+National Technical University of Athens,1
+National university of ireland galway,1
+Nc state ,1
+Northeastern University,1
+Ontario Tech University,1
+Northwestern University (NU) Kellogg School of Management,1
+Norwegian University of Life Sciences,1
+Norwegian University of Life Sciences (NMBU),1
+Norwegian university of science ,1
+Nottingham Trent University,1
+Oakton Community College,1
+Ohio University,1
+Richard Gilder Graduate School,1
+Rowan University ,1
+Teachers College Columbia University (CU) ,1
+Royal College of Surgeons in Ireland ,1
+Sorbonne - Paris VI,1
+Southern California University of Health Sciences,1
+Southern Methodist University (SMU) - UTSW,1
+Springfield College,1
+St John&#39;s University ,1
+St. Jude Children&#39;s Research Hospital,1
+St. Jude Graduate School of Biomedical Sciences,1
+Stanford,1
+Stowers Institute,1
+Stowers Institute for Medical Research,1
+Strathclyde,1
+Swiss Federal Institute of Technology in Zurich,1
+Sydney,1
+TTIC,1
+Tallinn University of Technology,1
+"Tata Institute of Fundamental Research, India",1
+Teachers College Columbia University,1
+Sofia University,1
+Skolkovo Institute of Science and Technology,1
+Simon Fraser university,1
+SUNY Polytechnic Institute,1
+Royal Melbourne Institute of Technology (RMIT) University,1
+Rush University,1
+Rutgers New Brunswick,1
+Rutgers University,1
+Rutgers University - Camden,1
+Rutgers the State University of New Jersey ,1
+Rutgers university,1
+Saint Jude,1
+Scuola superiore Sant&#39;Anna ,1
+Saint Louis University ,1
+Salisbury university ,1
+Sapienza University of Rome,1
+Sciences Po,1
+Scumbag college,1
+Scuola Normale Superiore,1
+Scuola normale superiore - Pisa (IT),1
+École Polytechnique Fédérale de Lausanne (EPFL),1
